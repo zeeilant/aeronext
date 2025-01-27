@@ -1,0 +1,27 @@
+.carrersupport{
+    padding: 12vmin;
+
+    .container{
+        flex:3;
+        // padding: 6vmin 0;
+        padding-right: 12vmin;
+        h3{
+            font-size: 4vmax;
+            font-weight: 500;
+        }
+        .headline{
+            margin-bottom: 6vmin;
+        }
+        h5{
+            font-size: 1.3vmax;
+            font-weight: 500;
+            margin-top: 2vmin;
+        }
+    }
+    img{
+        flex: 2;
+        object-fit: cover;
+        height: 100%;
+        background-color: antiquewhite;
+    }
+}

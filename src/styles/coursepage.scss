@@ -1,0 +1,29 @@
+.coursepage{
+    padding: 8vmin;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    h3 {
+        font-size: 4vmax;
+        font-weight: 500;
+        // margin-bottom: 2vmin;
+      }
+      p {
+        font-size: 0.9vmax;
+        margin-bottom: 20px;
+      }
+    .courses{
+        margin-top: 4vmin;
+        // overflow-x: scroll;
+        justify-content: center;
+        padding: 4vmin 6vmin;
+        gap: 4vmin;
+        flex-wrap: wrap;
+        &::-webkit-scrollbar{
+            display: none;
+        }
+        // .course{
+        //     margin:0 2vmin;
+        // }
+    }
+}
