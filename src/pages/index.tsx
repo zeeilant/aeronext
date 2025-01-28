@@ -483,17 +483,26 @@ const Homepage: React.FC = () => {
           <h6>Follow Us</h6>
           <ul>
             <li>
-              <Link target="_blank" href="https://www.facebook.com/profile.php?id=61572404365706&mibextid=LQQJ4d">
+              <Link
+                target="_blank"
+                href="https://www.facebook.com/profile.php?id=61572404365706&mibextid=LQQJ4d"
+              >
                 Facebook
               </Link>
             </li>
             <li>
-              <Link target="_blank" href="https://www.instagram.com/aeromingleaviation?igsh=MmZmY3psbGhiZDR5&utm_source=qr">
+              <Link
+                target="_blank"
+                href="https://www.instagram.com/aeromingleaviation?igsh=MmZmY3psbGhiZDR5&utm_source=qr"
+              >
                 instagram
               </Link>
             </li>
             <li>
-              <Link target="_blank" href="https://www.linkedin.com/company/aeromingle-aviation-academy">
+              <Link
+                target="_blank"
+                href="https://www.linkedin.com/company/aeromingle-aviation-academy"
+              >
                 Linkdin
               </Link>
             </li>
